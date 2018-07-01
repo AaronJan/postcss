@@ -783,3 +783,4 @@ See also plugins in modular minifier [`cssnano`].
 [`postcss-subgrid`]:                      https://github.com/seaneking/postcss-subgrid
 [`postcss-join-transitions`]:             https://github.com/JGJP/postcss-join-transitions
 [`postcss-font-display`]:                 https://github.com/dkrnl/postcss-font-display
+[`postcss-font-grabber`]:                 https://github.com/AaronJan/postcss-font-grabber
